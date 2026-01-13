@@ -73,7 +73,7 @@ This repository analyzes transactional sales data to:
 
 ## 🛠 Tech Stack
 - **Database**: northwind.db  
-- **SQL Client:** ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge)
+- **SQL Client:** SQLITE
 - **Charts**: Excel (Pivot table)
 
 ---
