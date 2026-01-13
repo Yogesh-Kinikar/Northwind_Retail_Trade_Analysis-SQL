@@ -1,7 +1,7 @@
 
-# 📊 Retail Sales Analytics (SQLite) - Data Analytics
+# 📊 Retail Sales Analytics (SQL) - Data Analytics
 
-A modular **data analytics** project powered by **SQLite** that leverages the classic Northwind Dataset. By structuring queries across 14 relational tables (Orders, Products, Customers), this project creates comprehensive business insights, transforming raw RDBMS data into actionable insights on revenue trends, market performance, and operational efficiency. 
+A modular **data analytics** project powered by **SQL** that leverages the classic Northwind Dataset. By structuring queries across 14 relational tables (Orders, Products, Customers), this project creates comprehensive business insights, transforming raw RDBMS data into actionable insights on revenue trends, market performance, and operational efficiency. 
 
 > ⚙️ Tech focus: SQL modeling & transformations
 
