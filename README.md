@@ -136,7 +136,7 @@ The company generated an impressive **$448.39 million** in total revenue over th
 ---
 
 ## 📆 Seasonality Insight
-- **Strong Months:** June, August and December consistently show strong performance across years.
+- **Strong Months:** May, August and December consistently show strong performance across years.
 - **Weakest Month:** February tends to be the weakest month.
 <img width="1587" height="367" alt="9) Revenue by Month" src="https://github.com/user-attachments/assets/8e3919f2-464e-4fcc-afbb-a493b640912f" />
 
